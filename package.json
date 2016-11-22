@@ -10,5 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "node-json-db": "^0.7.3"
-  }
+  },
+  "bin": "ccfd"
 }

@@ -1,0 +1,14 @@
+{
+  "name": "ccfd",
+  "version": "1.0.0",
+  "description": "Credit Card Fraud Detection System (demo project: not intended for any real use). First node CLI app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "josiah@jburchard.com",
+  "license": "ISC",
+  "dependencies": {
+    "node-json-db": "^0.7.3"
+  }
+}

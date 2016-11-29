@@ -1,6 +1,6 @@
 {
   "name": "ccfd",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Credit Card Fraud Detection System (demo project: not intended for any real use). First node CLI app.",
   "main": "index.js",
   "scripts": {

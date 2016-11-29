@@ -12,5 +12,5 @@
     "node-json-db": "^0.7.3",
     "commander": "^2.9.0"
   },
-  "bin": "ccfd"
+  "bin": "index.js"
 }
